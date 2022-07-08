@@ -94,3 +94,5 @@ C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\FilmesAPI\obj\Debug\net5.0\r
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.pdb
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\FilmesAPI\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
