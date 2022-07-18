@@ -4809,11 +4809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabyc\\Downloads\\alura-csharp2-Aula-1-Final\\FilmesApi\\FilmesApi.csproj",
+      "projectUniqueName": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
       "projectName": "FilmesApi",
-      "projectPath": "C:\\Users\\gabyc\\Downloads\\alura-csharp2-Aula-1-Final\\FilmesApi\\FilmesApi.csproj",
+      "projectPath": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
       "packagesPath": "C:\\Users\\gabyc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabyc\\Downloads\\alura-csharp2-Aula-1-Final\\FilmesApi\\obj\\",
+      "outputPath": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\FilmesApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabyc\\AppData\\Roaming\\NuGet\\NuGet.Config",

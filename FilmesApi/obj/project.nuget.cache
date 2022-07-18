@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ff6fnjLjZRTSDowDOTnn83oITAPmApJuugH92v9LCWhNJTHLool1Kryv+7lOnNMunIpHXzz1tsnm64DOurrhg==",
+  "dgSpecHash": "PktkHyqAuvg+63yb6+WQ9pFpG0Z54lO0xC8SR8WUuaIQ41VNW2QCSg23FiBJb0mvcPIOPLhPTOminompj6vAHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabyc\\Downloads\\alura-csharp2-Aula-1-Final\\FilmesApi\\FilmesApi.csproj",
+  "projectFilePath": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabyc\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\gabyc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
