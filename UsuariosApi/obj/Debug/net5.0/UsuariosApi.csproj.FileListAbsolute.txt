@@ -12,7 +12,6 @@ C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Castle.Core.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Humanizer.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
@@ -21,7 +20,6 @@ C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -55,3 +53,7 @@ C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\obj\Debug\net5.0
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\obj\Debug\net5.0\ref\UsuariosApi.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\obj\Debug\net5.0\UsuariosApi.pdb
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\obj\Debug\net5.0\UsuariosApi.genruntimeconfig.cache
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

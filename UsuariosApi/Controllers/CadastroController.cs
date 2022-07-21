@@ -15,7 +15,7 @@ namespace UsuariosApi.Controllers
         public IActionResult CadastrarUsuario(CreateUsuarioDto createDto)
         {
             //TODO chamar o service
-            return Ok();
+            return Ok(createDto);
         }
     }
 }
