@@ -56,3 +56,7 @@ C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\obj\Debug\net5.0
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Castle.Core.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabyc\OneDrive\Documentos\GitHub\FilmesAPI\UsuariosApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
