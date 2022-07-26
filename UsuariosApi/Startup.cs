@@ -36,7 +36,9 @@ namespace UsuariosApi
                 options.UseMySQL(Configuration.GetConnectionString("UsuarioConnection"))
             );
             services
-                .AddIdentity<IdentityUser<int>, IdentityRole<int>>()
+                .AddIdentity<IdentityUser<int>, IdentityRole<int>>(
+                opt => opt.SignIn.RequireConfirmedEmail = true
+                )
                 .AddEntityFrameworkStores<UserDbContext>();
             services.AddControllers();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
