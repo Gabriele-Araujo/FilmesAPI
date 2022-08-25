@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj": {}
+    "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\UsuariosApi\\UsuariosApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj": {
+    "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\UsuariosApi\\UsuariosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj",
+        "projectUniqueName": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\UsuariosApi\\UsuariosApi.csproj",
         "projectName": "UsuariosApi",
-        "projectPath": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesAPI\\UsuariosApi\\UsuariosApi.csproj",
+        "projectPath": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\UsuariosApi\\UsuariosApi.csproj",
         "packagesPath": "C:\\Users\\gabyc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesAPI\\UsuariosApi\\obj\\",
+        "outputPath": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\UsuariosApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabyc\\AppData\\Roaming\\NuGet\\NuGet.Config",

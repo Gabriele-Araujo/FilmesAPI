@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2AYwz/AdA5Tl4DK+na536IkOx3rmMKdkJ8IfvGHil9pXF+GjEoJY4IkbPo9PKbtic6DYASPGGwnBWPDDsCOvpA==",
+  "dgSpecHash": "cZFxpnbOLLQTjNSL+XmmNkrHRk27BA+RHvoa2XDIPlL5yabZTIpPLL2pTi3irFQY1SUnchQJg3euKGR9eCi+6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesAPI\\FilmesApi\\FilmesApi.csproj",
+  "projectFilePath": "C:\\Users\\gabyc\\OneDrive\\Documentos\\GitHub\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabyc\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\gabyc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
